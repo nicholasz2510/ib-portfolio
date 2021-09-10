@@ -1,4 +1,4 @@
-### IB English Portfolio
+# IB English Portfolio
 ## Nicholas Zhang
 
 You can use the [editor on GitHub](https://github.com/nicholasz2510/IB-Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
